@@ -3,11 +3,11 @@ body {
 }
 
 h1 {
-    color: white;
+    color: blue;
     text-align: center;
 }
 
 p {
     font-family: verdana;
-    font-size: 10px;
+    font-size: 1000px;
 }
